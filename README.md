@@ -23,7 +23,7 @@ Give instructions on how to collaborate with your project.
 > It should go over several rows?
 > This is how you do it.
 
-> Send an email with you proposal
+> Send an email with your proposal, I will read it and test it in the code
 ## FAQs
 ***
 
