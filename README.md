@@ -3,9 +3,13 @@
 2. [Technologies](#technologies)
 3. [Collaboration](#collaboration)
 4. [FAQs](#faqs)
+
+
 ### General Info
 ***
-Write down the general informations of your project. It is worth to always put a project status in the Readme file. This is where you can add it. 
+This project consists of a series of interfaces and customer and order management processes in a company.
+In this we must enter with our admin user and from there manage our clients, products and orders
+
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
