@@ -11,7 +11,10 @@ This project consists of a series of interfaces and customer and order managemen
 In this we must enter with our admin user and from there manage our clients, products and orders
 
 ### Screenshot
-![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
+![image](https://github.com/nestoralmale24/Interfaces/assets/128428703/1944cf76-974e-4df2-b6c4-f2e5ea4557ed)
+
+
+
 ## Technologies
 ***
 A list of technologies used within the project:
