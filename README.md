@@ -12,10 +12,10 @@ In this we must enter with our admin user and from there manage our clients, pro
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Java]([https://example.com](https://www.java.com/es/)): Version 21.0 
-* [NetBeans]([https://example.com](https://netbeans.apache.org/front/main/)): Version 19.0
+* [Java](https://www.java.com/es/): Version 21.0 
+* [NetBeans](https://netbeans.apache.org/front/main/): Version 19.0
 * [MySql WorkBench](https://dev.mysql.com/downloads/workbench/): Version 8.0 CE
-* [Library name](https://example.com): Version 1234
+  
 ## Collaboration
 ***
 Give instructions on how to collaborate with your project.
