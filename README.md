@@ -10,17 +10,12 @@
 This project consists of a series of interfaces and customer and order management processes in a company.
 In this we must enter with our admin user and from there manage our clients, products and orders
 
-### Screenshot
-![image](https://github.com/nestoralmale24/Interfaces/assets/128428703/1944cf76-974e-4df2-b6c4-f2e5ea4557ed)
-
-
-
 ## Technologies
 ***
 A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
+* [Java]([https://example.com](https://www.java.com/es/)): Version 21.0 
+* [NetBeans]([https://example.com](https://netbeans.apache.org/front/main/)): Version 19.0
+* [MySql WorkBench]([https://example.com](https://dev.mysql.com/downloads/workbench/)): Version 8.0 CE
 
 ## Collaboration
 ***
